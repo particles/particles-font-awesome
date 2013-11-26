@@ -1,7 +1,7 @@
 {
   "name": "particles-font-awesome",
   "description": "Add Font Awesome to your Particles application",
-  "version": "4.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/particles/particles-font-awesome",
   "author": {
     "name": "Mario Casciaro"
