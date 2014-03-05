@@ -1,11 +1,10 @@
+[![NPM version](https://badge.fury.io/js/particles-font-awesome.png)](http://badge.fury.io/js/particles-font-awesome) 
+[![Dependency Status](https://gemnasium.com/particles/particles-font-awesome.png)](https://gemnasium.com/particles/particles-font-awesome)
 
-#Synopsis
+# [particles](https://github.com/particles/particles)-jquery
 
-Add Font Awesome to your [Particles](https://github.com/particles) application
+> Font-awesome client-side asset for Particles applications
 
-[![NPM](https://nodei.co/npm/particles-font-awesome.png?downloads=true)](https://nodei.co/npm/particles-font-awesome/)
+## License
 
------
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/particles/particles-font-awesome/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+[MIT](http://en.wikipedia.org/wiki/MIT_License) @ Mario Casciaro
